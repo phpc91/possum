@@ -417,3 +417,51 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74437 footer #custom_html-3, .page-id-74437 footer #custom_html-4 {
     text-align: center;
 }
+/*----Teoria das restrições----*/
+.page-id-74440 #section-1{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.page-id-74440 .sidebar {
+    display: none !important;
+}
+.page-id-74440 #logo-container {
+    margin-left: unset;
+}
+.page-id-74440 #fundo {
+    background-color: #f8fdfa;
+    padding: 35px;
+    padding-bottom: 50px;
+}
+.page-id-74440 h2 {
+    font-family: gt-medium;
+    line-height: 1; 
+}
+.page-id-74440 #met-4-title-line1 {
+    font-size: 42px;
+    padding-bottom: 0;
+    line-height: 0.65;
+}
+.page-id-74440 #met-4-title-line2 {
+    font-size: 20px;
+    padding-top: 0;
+    margin-top: -56px;
+    margin-left: 50px;
+    line-height: 1.5;
+}
+.page-id-74440 button {
+    font-family: gt-thin;
+    float: right;
+    padding: 7px 13px;
+    border-radius: 0;
+}
+.page-id-74440 .item-content {
+    font-family: gt-light;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+}
+/*footer*/
+.page-id-74440 footer #custom_html-3, .page-id-74440 footer #custom_html-4 {
+    text-align: center;
+}
