@@ -193,7 +193,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     text-align: center;
 }
 
-/*==--METODOLOGIAS--==*/
+/*=---METODOLOGIAS---=*/
 .page-id-74426 #section-1{
     margin: 0 !important;
     padding: 0 !important;
@@ -278,4 +278,53 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74426 #met-5-title-line1 {
     font-size: 50px;
     padding-bottom: 0;
+}
+/*footer*/
+.page-id-74426 footer #custom_html-3, .page-id-74426 footer #custom_html-4 {
+    text-align: center;
+}
+
+/*----Design Thinking----*/
+.page-id-74431 #section-1{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.page-id-74431 .sidebar {
+    display: none !important;
+}
+.page-id-74431 #logo-container {
+    margin-left: unset;
+}
+.page-id-74431 #fundo {
+    background-color: #f8fdfa;
+    padding: 35px;
+    padding-bottom: 45px;
+}
+.page-id-74431 h2 {
+    font-family: gt-medium;
+    line-height: 1; 
+}
+.page-id-74431 #met-1-title-line1 {
+    font-size: 64px;
+    padding-bottom: 0; 
+}
+.page-id-74431 #met-1-title-line2 {
+    font-size: 32px;
+    padding-top: 0;
+}
+.page-id-74431 button {
+    font-family: gt-thin;
+    float: right;
+    padding: 7px 13px;
+    border-radius: 0;
+}
+.page-id-74431 .item-content {
+    font-family: gt-light;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+}
+/*footer*/
+.page-id-74431 footer #custom_html-3, .page-id-74431 footer #custom_html-4 {
+    text-align: center;
 }
