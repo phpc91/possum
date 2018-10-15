@@ -298,7 +298,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74431 #fundo {
     background-color: #f8fdfa;
     padding: 35px;
-    padding-bottom: 45px;
+    padding-bottom: 50px;
 }
 .page-id-74431 h2 {
     font-family: gt-medium;
@@ -326,5 +326,94 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 /*footer*/
 .page-id-74431 footer #custom_html-3, .page-id-74431 footer #custom_html-4 {
+    text-align: center;
+}
+/*----Applied Innovation----*/
+.page-id-74434 #section-1{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.page-id-74434 .sidebar {
+    display: none !important;
+}
+.page-id-74434 #logo-container {
+    margin-left: unset;
+}
+.page-id-74434 #fundo {
+    background-color: #f8fdfa;
+    padding: 35px;
+    padding-bottom: 50px;
+}
+.page-id-74434 h2 {
+    font-family: gt-medium;
+    line-height: 1; 
+}
+.page-id-74434 #met-2-title-line1 {
+    font-size: 32px;
+    padding-bottom: 0;
+}
+.page-id-74434 #met-2-title-line2 {
+    font-size: 42px;
+    padding-top: 0;
+}
+.page-id-74434 button {
+    font-family: gt-thin;
+    float: right;
+    padding: 7px 13px;
+    border-radius: 0;
+}
+.page-id-74434 .item-content {
+    font-family: gt-light;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+}
+/*footer*/
+.page-id-74434 footer #custom_html-3, .page-id-74434 footer #custom_html-4 {
+    text-align: center;
+}
+/*---Matemática aplicada----*/
+.page-id-74437 #section-1{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.page-id-74437 .sidebar {
+    display: none !important;
+}
+.page-id-74437 #logo-container {
+    margin-left: unset;
+}
+.page-id-74437 #fundo {
+    background-color: #f8fdfa;
+    padding: 35px;
+    padding-bottom: 50px;
+}
+.page-id-74437 h2 {
+    font-family: gt-medium;
+    line-height: 1; 
+}
+.page-id-74437 #met-3-title-line1{
+    font-size: 34px;
+    padding-bottom: 0;
+}
+.page-id-74437 #met-3-title-line2 {
+    font-size: 18px;
+    padding-top: 0;
+    margin-top: -20px;
+}
+.page-id-74437 button {
+    font-family: gt-thin;
+    float: right;
+    padding: 7px 13px;
+    border-radius: 0;
+}
+.page-id-74437 .item-content {
+    font-family: gt-light;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+}
+/*footer*/
+.page-id-74437 footer #custom_html-3, .page-id-74437 footer #custom_html-4 {
     text-align: center;
 }
