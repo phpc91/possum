@@ -571,3 +571,114 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74447 footer #custom_html-3, .page-id-74447 footer #custom_html-4 {
     text-align: center;
 }
+
+/*=---CONSULTORIA---=*/
+.page-id-74451 #section-1{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.page-id-74451 .sidebar {
+    display: none !important;
+}
+.page-id-74451 #logo-container {
+    margin-left: unset;
+}
+.page-id-74451 #fundo {
+    padding: 35px;
+    background-color: white;
+}
+.page-id-74451 .mobile-title {
+    font-family: gt-thin;
+    font-size: 28px;
+    line-height: 31px;
+    color: black;
+    width: 65%;
+}
+.page-id-74451 h2 {
+    font-family: gt-medium;
+    line-height: 1; 
+}
+.page-id-74451 .item-title {
+    font-size: 35px;
+}
+.page-id-74451 .item-content {
+    font-family: gt-light;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+}
+.page-id-74451 button {
+    font-family: gt-thin;
+    float: right;
+    padding: 7px 13px;
+    border-radius: 0;
+}
+.page-id-74451 #cons-1-title-line1 {
+    font-size: 28px;
+    padding-bottom: 0;
+    line-height: 1.4;
+}
+.page-id-74451 #cons-1-title-line2 {
+    font-size: 50px;
+    padding-top: 0;
+    line-height: 0.65;
+    margin-top: -77px;
+    margin-bottom: 45px;
+}
+.page-id-74451 #cons-2-title-line1 {
+    font-size: 62px;
+    padding-bottom: 0;
+}
+.page-id-74451 #cons-2-title-line2 {
+    font-size: 29px;
+    padding-top: 0;
+}
+.page-id-74451 #cons-3-title-line1{
+    font-size: 28px;
+    padding-bottom: 0;
+}
+.page-id-74451 #cons-3-title-line2 {
+    font-size: 52px;
+    padding-top: 0;
+}
+.page-id-74451 #cons-4-title-line1 {
+    font-size: 60px;
+    padding-bottom: 0;
+}
+.page-id-74451 #cons-4-title-line2 {
+    font-size: 35px;
+    padding-top: 0;
+    margin-left: 50px;
+}
+.page-id-74451 #cons-5-title-line1 {
+    font-size: 48px;
+    padding-bottom: 0;
+}
+.page-id-74451 #cons-5-title-line2 {
+    font-size: 32px;
+    padding-top: 0;
+    margin-left: 35px;
+}
+.page-id-74451 #cons-6-title-line1 {
+    font-size: 38px;
+    padding-bottom: 0;
+}
+.page-id-74451 #cons-7-title-line1 {
+    font-size: 60px;
+    padding-bottom: 0px;
+}
+.page-id-74451 #cons-7-title-line2 {
+    font-size: 36px;
+    padding-bottom: 0;
+    margin-left: 220px;
+    margin-top: -48px;
+    margin-bottom: 15px;
+}
+.page-id-74451 #cons-8-title-line1 {
+    font-size: 52px;
+    padding-bottom: 0;
+}
+/*footer*/
+.page-id-74451 footer #custom_html-3, .page-id-74451 footer #custom_html-4 {
+    text-align: center;
+}
