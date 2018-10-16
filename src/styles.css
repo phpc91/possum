@@ -158,9 +158,14 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74422 #logo-container {
     margin-left: unset;
 }
+@media screen and (max-width: 426px) {
+    .slider-header {
+        top: 0px !important;
+    }
+}
 /*servicos*/
 .page-id-74422 #servicos .tp-bullets {
-    transform: matrix(1, 0, 0, 1, -50, -78) !important; 
+    transform: matrix(1, 0, 0, 1, -50, -45) !important; 
 }
 /*clientes*/
 .page-id-74422 .mobile-title {
@@ -178,15 +183,15 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 /*parceiros*/
 .page-id-74422 #parceiros .tp-bullets {
-    transform: matrix(1, 0, 0, 1, 180, -78) !important; 
+    transform: matrix(1, 0, 0, 1, 180, -45) !important; 
 }
 /*cases*/
 .page-id-74422 #cases .tp-bullets {
-    transform: matrix(1, 0, 0, 1, -50, -78) !important; 
+    transform: matrix(1, 0, 0, 1, -50, -45) !important; 
 }
 /*insights*/
 .page-id-74422 #insights .tp-bullets {
-    transform: matrix(1, 0, 0, 1, 180, -78) !important; 
+    transform: matrix(1, 0, 0, 1, 180, -45) !important; 
 }
 /*footer*/
 .page-id-74422 footer #custom_html-3, .page-id-74422 footer #custom_html-4 {
@@ -503,5 +508,66 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 /*footer*/
 .page-id-74444 footer #custom_html-3, .page-id-74444 footer #custom_html-4 {
+    text-align: center;
+}
+
+/*=---FERRAMENTAS---=*/
+.page-id-74447 #section-1{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.page-id-74447 .sidebar {
+    display: none !important;
+}
+.page-id-74447 #logo-container {
+    margin-left: unset;
+}
+.page-id-74447 #fundo {
+    padding: 10px 35px 50px 35px;
+}
+.page-id-74447 #page-title {
+    background-image: url('http://possumsolutions.com/wp-content/uploads/2018/10/ferramentas-fundo-mobile.jpg');
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+}
+.page-id-74447 .mobile-title {
+    font-family: gt-thin;
+    font-size: 28px;
+    line-height: 31px;
+    color: black;
+    width: 55%;
+    padding: 35px;
+    padding-bottom: 10px;
+}
+.page-id-74447 .mobile-paragraph {
+    font-family: gt-light;
+    font-size: 14px;
+    line-height: 16px;
+    color: black;
+    width: 60%;
+    padding-left: 35px;
+    padding-top: 10px;
+}
+.page-id-74447 h2 {
+    font-family: gt-medium;
+    line-height: 1; 
+}
+.page-id-74447 .item-title {
+    font-size: 35px;
+}
+.page-id-74447 .item-content {
+    font-family: gt-light;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+}
+.page-id-74447 button {
+    font-family: gt-thin;
+    float: right;
+    padding: 7px 13px;
+    border-radius: 0;
+}
+/*footer*/
+.page-id-74447 footer #custom_html-3, .page-id-74447 footer #custom_html-4 {
     text-align: center;
 }
