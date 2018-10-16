@@ -152,15 +152,18 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74422 #section-1{
     margin: 0 !important;
 }
-.page-id-74422 .sidebar {
-    display: none !important;
-}
-.page-id-74422 #logo-container {
-    margin-left: unset;
-}
 @media screen and (max-width: 426px) {
     .slider-header {
         top: 0px !important;
+    }
+    #logo-container {
+        margin-left: unset;
+    }
+    .sidebar {
+        display: none;
+    }
+    footer #custom_html-3, footer #custom_html-4 {
+        text-align: center;
     }
 }
 /*servicos*/
@@ -193,21 +196,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74422 #insights .tp-bullets {
     transform: matrix(1, 0, 0, 1, 180, -45) !important; 
 }
-/*footer*/
-.page-id-74422 footer #custom_html-3, .page-id-74422 footer #custom_html-4 {
-    text-align: center;
-}
 
 /*=---METODOLOGIAS---=*/
 .page-id-74426 #section-1{
     margin: 0 !important;
     padding: 0 !important;
-}
-.page-id-74426 .sidebar {
-    display: none !important;
-}
-.page-id-74426 #logo-container {
-    margin-left: unset;
 }
 .page-id-74426 .mobile-title {
     font-family: gt-thin;
@@ -284,21 +277,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     font-size: 50px;
     padding-bottom: 0;
 }
-/*footer*/
-.page-id-74426 footer #custom_html-3, .page-id-74426 footer #custom_html-4 {
-    text-align: center;
-}
 
 /*----Design Thinking----*/
 .page-id-74431 #section-1{
     margin: 0 !important;
     padding: 0 !important;
-}
-.page-id-74431 .sidebar {
-    display: none !important;
-}
-.page-id-74431 #logo-container {
-    margin-left: unset;
 }
 .page-id-74431 #fundo {
     background-color: #f8fdfa;
@@ -329,20 +312,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     line-height: 18px;
     color: black;
 }
-/*footer*/
-.page-id-74431 footer #custom_html-3, .page-id-74431 footer #custom_html-4 {
-    text-align: center;
-}
+
 /*----Applied Innovation----*/
 .page-id-74434 #section-1{
     margin: 0 !important;
     padding: 0 !important;
-}
-.page-id-74434 .sidebar {
-    display: none !important;
-}
-.page-id-74434 #logo-container {
-    margin-left: unset;
 }
 .page-id-74434 #fundo {
     background-color: #f8fdfa;
@@ -373,20 +347,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     line-height: 18px;
     color: black;
 }
-/*footer*/
-.page-id-74434 footer #custom_html-3, .page-id-74434 footer #custom_html-4 {
-    text-align: center;
-}
+
 /*---Matemática aplicada----*/
 .page-id-74437 #section-1{
     margin: 0 !important;
     padding: 0 !important;
-}
-.page-id-74437 .sidebar {
-    display: none !important;
-}
-.page-id-74437 #logo-container {
-    margin-left: unset;
 }
 .page-id-74437 #fundo {
     background-color: #f8fdfa;
@@ -418,20 +383,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     line-height: 18px;
     color: black;
 }
-/*footer*/
-.page-id-74437 footer #custom_html-3, .page-id-74437 footer #custom_html-4 {
-    text-align: center;
-}
+
 /*----Teoria das restrições----*/
 .page-id-74440 #section-1{
     margin: 0 !important;
     padding: 0 !important;
-}
-.page-id-74440 .sidebar {
-    display: none !important;
-}
-.page-id-74440 #logo-container {
-    margin-left: unset;
 }
 .page-id-74440 #fundo {
     background-color: #f8fdfa;
@@ -466,20 +422,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     line-height: 18px;
     color: black;
 }
-/*footer*/
-.page-id-74440 footer #custom_html-3, .page-id-74440 footer #custom_html-4 {
-    text-align: center;
-}
+
 /*----Lean----*/
 .page-id-74444 #section-1{
     margin: 0 !important;
     padding: 0 !important;
-}
-.page-id-74444 .sidebar {
-    display: none !important;
-}
-.page-id-74444 #logo-container {
-    margin-left: unset;
 }
 .page-id-74444 #fundo {
     background-color: #f8fdfa;
@@ -506,21 +453,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     line-height: 18px;
     color: black;
 }
-/*footer*/
-.page-id-74444 footer #custom_html-3, .page-id-74444 footer #custom_html-4 {
-    text-align: center;
-}
 
 /*=---FERRAMENTAS---=*/
 .page-id-74447 #section-1{
     margin: 0 !important;
     padding: 0 !important;
-}
-.page-id-74447 .sidebar {
-    display: none !important;
-}
-.page-id-74447 #logo-container {
-    margin-left: unset;
 }
 .page-id-74447 #fundo {
     padding: 10px 35px 50px 35px;
@@ -528,7 +465,6 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74447 #page-title {
     background-image: url('http://possumsolutions.com/wp-content/uploads/2018/10/ferramentas-fundo-mobile.jpg');
     background-repeat: no-repeat;
-    /* background-size: cover; */
 }
 .page-id-74447 .mobile-title {
     font-family: gt-thin;
@@ -567,21 +503,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     padding: 7px 13px;
     border-radius: 0;
 }
-/*footer*/
-.page-id-74447 footer #custom_html-3, .page-id-74447 footer #custom_html-4 {
-    text-align: center;
-}
 
 /*=---CONSULTORIA---=*/
 .page-id-74451 #section-1{
     margin: 0 !important;
     padding: 0 !important;
-}
-.page-id-74451 .sidebar {
-    display: none !important;
-}
-.page-id-74451 #logo-container {
-    margin-left: unset;
 }
 .page-id-74451 #fundo {
     padding: 35px;
@@ -677,8 +603,4 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74451 #cons-8-title-line1 {
     font-size: 52px;
     padding-bottom: 0;
-}
-/*footer*/
-.page-id-74451 footer #custom_html-3, .page-id-74451 footer #custom_html-4 {
-    text-align: center;
 }
