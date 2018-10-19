@@ -41,6 +41,12 @@ body.page-id-73949 {
 #header .navigation-container {
     margin-right: -8%;
 }
+.header-wrapper {
+    padding-top: 64px !important;
+}
+#header {
+    padding-top: 10px;
+}
 body.page-id-73922 {
     background-color: black;
 }
