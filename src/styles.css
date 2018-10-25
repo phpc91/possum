@@ -196,6 +196,15 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     footer #custom_html-3, footer #custom_html-4 {
         text-align: center;
     }
+
+    /*insights*/
+    form#searchform {
+        top: 15px;
+        left: 50%;
+    }
+    .page-id-74389 #carrossel {
+        padding: 0 40px;
+    }
 }
 /*servicos*/
 .page-id-74422 #servicos .tp-bullets {
@@ -634,4 +643,14 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74451 #cons-8-title-line1 {
     font-size: 52px;
     padding-bottom: 0;
+}
+
+/*====TABLETS====*/
+@media screen and (min-width: 427px) and (max-width: 769px) {
+    #logo-container {
+        margin-left: unset;
+    }
+    #header .navigation-container {
+        margin-right: unset;
+    }
 }
