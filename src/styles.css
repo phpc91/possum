@@ -190,11 +190,27 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     #logo-container {
         margin-left: unset;
     }
+    .tparrows {
+        display: none !important;
+    }
     .sidebar {
         display: none;
     }
     footer #custom_html-3, footer #custom_html-4 {
         text-align: center;
+    }
+    /*servicos*/
+    #como-atuamos-sub1, #como-atuamos-txt1 {
+        top: unset;
+    }
+    #parceiros-c3 {
+        top: 20px
+    }
+    #parceiros-tony {
+        top: 7px
+    }
+    #parceiros-pipefy {
+        top: 7px
     }
 
     /*insights*/
