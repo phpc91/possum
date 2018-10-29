@@ -222,9 +222,40 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
         padding: 0 40px;
     }
 }
+/*acertos bolinhas navegacao*/
+@media screen and (max-width: 321px) {
+    /*parceiros*/
+    .page-id-74422 #parceiros .tp-bullets {
+        transform: matrix(1, 0, 0, 1, 128, -45) !important; 
+    }
+    /*insights*/
+    .page-id-74422 #insights .tp-bullets {
+        transform: matrix(1, 0, 0, 1, 117, -45) !important; 
+    }
+}
+@media screen and (min-width: 322px) and (max-width: 376px) {
+    /*parceiros*/
+    .page-id-74422 #parceiros .tp-bullets {
+        transform: matrix(1, 0, 0, 1, 155, -45) !important; 
+    }
+    /*insights*/
+    .page-id-74422 #insights .tp-bullets {
+        transform: matrix(1, 0, 0, 1, 144, -45) !important; 
+    }
+}
+@media screen and (min-width: 377px) and (max-width: 426px) {
+    /*parceiros*/
+    .page-id-74422 #parceiros .tp-bullets {
+        transform: matrix(1, 0, 0, 1, 180, -45) !important; 
+    }
+    /*insights*/
+    .page-id-74422 #insights .tp-bullets {
+        transform: matrix(1, 0, 0, 1, 169, -45) !important; 
+    }
+}
 /*servicos*/
 .page-id-74422 #servicos .tp-bullets {
-    transform: matrix(1, 0, 0, 1, -50, -45) !important; 
+    transform: matrix(1, 0, 0, 1, -55, -45) !important; 
 }
 /*clientes*/
 .page-id-74422 .mobile-title {
@@ -240,17 +271,10 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     color: black;
     margin: 0 3%;
 }
-/*parceiros*/
-.page-id-74422 #parceiros .tp-bullets {
-    transform: matrix(1, 0, 0, 1, 180, -45) !important; 
-}
+
 /*cases*/
 .page-id-74422 #cases .tp-bullets {
-    transform: matrix(1, 0, 0, 1, -50, -45) !important; 
-}
-/*insights*/
-.page-id-74422 #insights .tp-bullets {
-    transform: matrix(1, 0, 0, 1, 180, -45) !important; 
+    transform: matrix(1, 0, 0, 1, -55, -45) !important; 
 }
 
 /*=---METODOLOGIAS---=*/
