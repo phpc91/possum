@@ -38,6 +38,9 @@ body.page-id-73949 {
 #logo-container {
     margin-left: -8%;
 }
+#logo-container img {
+    width: 123px;
+}
 #header .navigation-container {
     margin-right: -8%;
 }
@@ -58,11 +61,12 @@ body.page-id-73922 {
 .slider-header {
     top: 50px;
 }
-.tp-cation:hover .tp-video-play-button {
-    display: none;
-}
-.tp-video-play-button { 
-    display: none;
+#rev_slider_6_2 .persephone-2.tparrows:before, 
+#rev_slider_7_3 .persephone-2.tparrows:before, 
+#rev_slider_8_4 .persephone-2.tparrows:before, 
+#rev_slider_9_5 .persephone-2.tparrows:before,
+#rev_slider_10_6 .persephone-2.tparrows:before {
+    font-size: 35px;
 }
 #como-atuamos-sub1 ,#como-atuamos-txt1 {
     top: -20px;
@@ -171,6 +175,14 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
         top: 20px;
     }
 }
+@media screen and (min-width: 1921px) {
+    #logo-container img {
+        width: 125px;
+    }
+    .nav-menu ul li a {
+        font-size: 14px;
+    }
+} 
 @media screen and (min-height: 600px) and (max-height: 700px) {
     .slider-header {
         top: 60px;
@@ -182,6 +194,9 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 /*todas*/
 .page-id-74422 #section-1{
     margin: 0 !important;
+}
+.wprmenu_bar #custom_menu_icon.hamburger {
+    position: absolute;
 }
 @media screen and (max-width: 426px) {
     .slider-header {
@@ -203,9 +218,6 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     #como-atuamos-sub1, #como-atuamos-txt1 {
         top: unset;
     }
-    #parceiros-c3 {
-        top: 20px
-    }
     #parceiros-tony {
         top: 7px
     }
@@ -215,7 +227,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 
     /*insights*/
     form#searchform {
-        top: 15px;
+        top: 55px;
         left: 50%;
     }
     .page-id-74389 #carrossel {
@@ -289,6 +301,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     color: black;
     width: 60%;
 }
+@media screen and (max-width: 320px) {
+    .page-id-74426 .mobile-title {
+        width: 80%;
+    }
+}
 .page-id-74426 .mobile-paragraph {
     font-family: gt-light;
     font-size: 14px;
@@ -306,6 +323,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 .page-id-74426 button {
     font-family: gt-thin;
+    font-weight: bold;
     float: right;
     padding: 7px 13px;
     border-radius: 0;
@@ -382,6 +400,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 .page-id-74431 button {
     font-family: gt-thin;
+    font-weight: bold;
     float: right;
     padding: 7px 13px;
     border-radius: 0;
@@ -417,6 +436,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 .page-id-74434 button {
     font-family: gt-thin;
+    font-weight: bold;
     float: right;
     padding: 7px 13px;
     border-radius: 0;
@@ -453,6 +473,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 .page-id-74437 button {
     font-family: gt-thin;
+    font-weight: bold;
     float: right;
     padding: 7px 13px;
     border-radius: 0;
@@ -492,6 +513,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 .page-id-74440 button {
     font-family: gt-thin;
+    font-weight: bold;
     float: right;
     padding: 7px 13px;
     border-radius: 0;
@@ -523,6 +545,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 }
 .page-id-74444 button {
     font-family: gt-thin;
+    font-weight: bold;
     float: right;
     padding: 7px 13px;
     border-radius: 0;
@@ -542,10 +565,10 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 .page-id-74447 #fundo {
     padding: 10px 35px 50px 35px;
 }
-.page-id-74447 #page-title {
+/* .page-id-74447 #page-title {
     background-image: url('http://possumsolutions.com/wp-content/uploads/2018/10/ferramentas-fundo-mobile.jpg');
     background-repeat: no-repeat;
-}
+} */
 .page-id-74447 .mobile-title {
     font-family: gt-thin;
     font-size: 28px;
@@ -554,6 +577,16 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     width: 55%;
     padding: 35px;
     padding-bottom: 10px;
+}
+@media screen and (max-width: 320px) {
+    .page-id-74447 .mobile-title {
+        width: 68%;
+    }
+}
+@media screen and (min-width: 321px) and (max-width: 375px) {
+    .page-id-74447 .mobile-title {
+        width: 58%
+    }
 }
 .page-id-74447 .mobile-paragraph {
     font-family: gt-light;
