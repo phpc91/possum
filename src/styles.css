@@ -225,6 +225,15 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
         top: 7px
     }
 
+    /*cases*/
+    #cases .tp-bullet.selected {
+        background-color: rgb(0,0,0);
+    }
+    
+    #cases .tp-bullet {
+        border-color: rgb(0,0,0);
+    }
+
     /*insights*/
     form#searchform {
         top: 55px;
