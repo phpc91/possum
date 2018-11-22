@@ -129,6 +129,11 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
 
 /*====RESPONSIVIDADE====*/
 /*===-PC-===*/
+@media screen and (min-width: 1024px) {
+    .tp-bullets {
+        display: none;
+    }
+}
 @media screen and (min-width: 1280px) and (max-width: 1359px) {
     #logo-container {
         margin-left: -20px;
@@ -592,7 +597,7 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
         width: 68%;
     }
 }
-@media screen and (min-width: 321px) and (max-width: 375px) {
+@media screen and (min-width: 321px) and (max-width: 376px) {
     .page-id-74447 .mobile-title {
         width: 58%
     }
@@ -641,6 +646,16 @@ button.slick-prev.slick-arrow, button.slick-next.slick-arrow {
     line-height: 31px;
     color: black;
     width: 65%;
+}
+@media screen and (max-width: 320px) {
+    .page-id-74451 .mobile-title {
+        width: 95%;
+    }
+}
+@media screen and (min-width: 321px) and (max-width: 376px) {
+    .page-id-74451 .mobile-title {
+        width: 80%
+    }
 }
 .page-id-74451 h2 {
     font-family: gt-medium;
