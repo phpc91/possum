@@ -88,6 +88,80 @@ body.page-id-73922 {
     display: none;
 }
 
+/*---POPUPS---*/
+/*ferramentas*/
+.page-id-74483 .section-boxed {
+  max-width: 100%;
+}
+.page-id-74483 #content-container .section-boxed {
+  margin: 0;
+  padding: 0;
+}
+.page-id-74483 #logo-container {
+  margin-left: 0;
+}
+.page-id-74483 #header .navigation-container {
+  margin-right: 0;
+}
+.page-id-74483 .textwidget.custom-html-widget {
+  margin: 0 35px;
+}
+.page-id-74483 #background{
+  background-image: url('http://possumsolutions.com/wp-content/uploads/2018/09/fundo-ferramentas.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  padding-bottom: 22px;
+}
+.page-id-74483 #content-column {
+  padding-left: 5%;
+}
+.page-id-74483 #page-title {
+  margin-bottom: 40px;
+}
+.page-id-74483 #page-title h1 {
+  font-family: gt-thin;
+  font-size: 50px;
+  line-height: 45px;
+  letter-spacing: 3px;
+}
+.page-id-74483 #page-title h4 {
+  font-family: gt-light;
+  font-size: 20px;
+  line-height: 22px;
+}
+.page-id-74483 .item {
+  margin-bottom: 60px;
+  width: 40%;
+}
+.page-id-74483 .item-title {
+  font-family: gt-medium;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 2px;
+}
+.page-id-74483 .item-description {
+  font-family: gt-light;
+  font-size: 17px;
+  line-height: 20px;
+  color: black;
+}
+
+/*metodologias*/
+.page-id-74486 .header-wrapper, .page-id-74486 #footer{
+  display: none;
+}
+.page-id-74486 #content-container .section-boxed {
+  margin: 0 auto;
+}
+/*consultoria*/
+.page-id-74489 .header-wrapper, .page-id-74489 #footer{
+  display: none;
+}
+.page-id-74489 #content-container .section-boxed {
+  margin: 0 auto;
+}
+
 /*---POSTS---*/
 .post-title {
     font-family: gt-medium;
