@@ -148,18 +148,154 @@ body.page-id-73922 {
 }
 
 /*metodologias*/
-.page-id-74486 .header-wrapper, .page-id-74486 #footer{
-  display: none;
+.page-id-74486 .section-boxed {
+  max-width: 100%;
 }
-.page-id-74486 #content-container .section-boxed {
-  margin: 0 auto;
-}
+
 /*consultoria*/
-.page-id-74489 .header-wrapper, .page-id-74489 #footer{
-  display: none;
+.page-id-74489 .section-boxed {
+  max-width: 100%;
 }
 .page-id-74489 #content-container .section-boxed {
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
+}
+.page-id-74489 #logo-container {
+  margin-left: 0;
+}
+.page-id-74489 #header .navigation-container {
+  margin-right: 0;
+}
+.page-id-74489 .textwidget.custom-html-widget {
+  margin: 0 35px;
+}
+.page-id-74489 #fundo {
+  background-image: url('http://possumsolutions.com/wp-content/uploads/2018/09/fundo-consultoria.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  padding: 20px;
+  padding-left: 70px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+/* .page-id-74489 #page-title {
+  margin: 40px;
+} */
+.page-id-74489 #page-title h1 {
+  font-family: gt-thin;
+  font-size: 50px;
+  line-height: 45px;
+  letter-spacing: 3px;
+}
+.page-id-74489 #content-column {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.page-id-74489 #row-1, .page-id-74489 #row-2, .page-id-74489 #row-3{
+  display: flex;
+  flex-direction: row;
+  height: 320px;
+}
+.page-id-74489 #cons-1, 
+.page-id-74489 #cons-2, 
+.page-id-74489 #cons-3,
+.page-id-74489 #cons-4,
+.page-id-74489 #cons-5,
+.page-id-74489 #cons-6,
+.page-id-74489 #cons-7,
+.page-id-74489 #cons-8,
+.page-id-74489 #empty-col {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-right: 25px; 
+}
+.page-id-74489 h2 {
+  font-family: gt-medium;
+  line-height: 1; 
+}
+.page-id-74489 .item-title {
+  font-size: 35px;
+}
+.page-id-74489 .item-content {
+  font-family: gt-light;
+  font-size: 15px;
+  line-height: 18px;
+  color: black;
+}
+.page-id-74489 #cons-1-title-line1 {
+  font-size: 28px;
+  padding-bottom: 0;
+  line-height: 1.4;
+}
+.page-id-74489 #cons-1-title-line2 {
+  font-size: 50px;
+  padding: 0;
+  line-height: 0.65;
+  margin-top: -77px;
+  margin-bottom: 39px;
+}
+.page-id-74489 #cons-2-title-line1 {
+  font-size: 62px;
+  padding-bottom: 0;
+}
+.page-id-74489 #cons-2-title-line2 {
+  font-size: 29px;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.page-id-74489 #cons-3-title-line1{
+  font-size: 28px;
+  padding-bottom: 0;
+}
+.page-id-74489 #cons-3-title-line2 {
+  font-size: 52px;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.page-id-74489 #cons-4-title-line1 {
+  font-size: 60px;
+  padding-bottom: 0;
+}
+.page-id-74489 #cons-4-title-line2 {
+  font-size: 35px;
+  padding-top: 0;
+  margin-left: 50px;
+}
+.page-id-74489 #cons-5-title-line1 {
+  font-size: 48px;
+  padding-bottom: 0;
+}
+.page-id-74489 #cons-5-title-line2 {
+  font-size: 32px;
+  padding: 0;
+  margin-left: 35px;
+  margin-bottom: 8px;
+}
+.page-id-74489 #cons-6-title-line1 {
+  font-size: 38px;
+  padding-bottom: 0;
+  margin-bottom: 8px;
+}
+.page-id-74489 #cons-7-title-line1 {
+  font-size: 60px;
+  padding-bottom: 0px;
+}
+.page-id-74489 #cons-7-title-line2 {
+  font-size: 36px;
+  padding-bottom: 0;
+  margin-left: 80px;
+  margin-top: -13px;
+  margin-bottom: 8px;
+}
+.page-id-74489 #cons-8-title-line1 {
+  font-size: 52px;
+  padding-bottom: 0;
+  margin-bottom: 8px;
 }
 
 /*---POSTS---*/
