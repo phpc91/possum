@@ -151,6 +151,247 @@ body.page-id-73922 {
 .page-id-74486 .section-boxed {
   max-width: 100%;
 }
+.page-id-74486 #content-container .section-boxed {
+  margin: 0;
+  padding: 0;
+}
+.page-id-74486 #logo-container {
+  margin-left: 0;
+}
+.page-id-74486 #header .navigation-container {
+  margin-right: 0;
+}
+.page-id-74486 .textwidget.custom-html-widget {
+  margin: 0 35px;
+}
+.page-id-74486 #fundo{
+  background-image: url('http://possumsolutions.com/wp-content/uploads/2018/09/fundo-metodologias.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  padding-bottom: 1%;
+}
+.page-id-74486 #content-column {
+  padding-left: 5%;
+  width: 60%;
+}
+.page-id-74486 #page-title {
+  margin-bottom: 40px;
+  width: 90%;
+}
+.page-id-74486 #page-title h1 {
+  font-family: gt-thin;
+  font-size: 50px;
+  line-height: 45px;
+  letter-spacing: 3px;
+  color: black;
+}
+.page-id-74486 #page-title h4 {
+  font-family: gt-light;
+  font-size: 20px;
+  line-height: 22px;
+}
+.page-id-74486 h2 {
+  font-family: gt-medium;
+  line-height: 1; 
+}
+.page-id-74486 button {
+  font-family: gt-thin;
+  font-weight: bold;
+  padding: 7px 13px;
+  border-radius: 0;
+  margin-top: 10px;
+}
+.page-id-74486 .item-content {
+  font-family: gt-light;
+  font-size: 15px;
+  line-height: 18px;
+  color: black;
+}
+.page-id-74486 #row-1, 
+.page-id-74486 #row-2 {
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+  margin-bottom: 15px;
+}
+.page-id-74486 #met-1, 
+.page-id-74486 #met-2, 
+.page-id-74486 #met-3,
+.page-id-74486 #met-4,
+.page-id-74486 #met-5,
+.page-id-74486 #empty-col {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-right: 25px; 
+}
+.page-id-74486 #met-1-title-line1 {
+  font-size: 64px;
+  padding-bottom: 0; 
+}
+.page-id-74486 #met-1-title-line2 {
+  font-size: 32px;
+  padding-top: 0;
+}
+.page-id-74486 #met-2-title-line1 {
+  font-size: 32px;
+  padding-bottom: 0;
+}
+.page-id-74486 #met-2-title-line2 {
+  font-size: 42px;
+  padding-top: 0;
+}
+.page-id-74486 #met-3-title-line1{
+  font-size: 34px;
+  padding-bottom: 0;
+}
+.page-id-74486 #met-3-title-line2 {
+  font-size: 18px;
+  padding-top: 0;
+  margin-top: -20px;
+}
+.page-id-74486 #met-4-title-line1 {
+  font-size: 42px;
+  padding-bottom: 0;
+  line-height: 0.65;
+}
+.page-id-74486 #met-4-title-line2 {
+  font-size: 20px;
+  padding-top: 0;
+  margin-top: -56px;
+  margin-left: 50px;
+  line-height: 1.5;
+}
+.page-id-74486 #met-5-title-line1 {
+  font-size: 50px;
+  padding-bottom: 0;
+}
+
+
+.page-id-74499 #logo-container,
+.page-id-74501 #logo-container,
+.page-id-74503 #logo-container,
+.page-id-74505 #logo-container,
+.page-id-74509 #logo-container {
+  margin-left: 0;
+}
+.page-id-74499 #header .navigation-container,
+.page-id-74501 #header .navigation-container,
+.page-id-74503 #header .navigation-container,
+.page-id-74505 #header .navigation-container,
+.page-id-74509 #header .navigation-container {
+  margin-right: 0;
+}
+.page-id-74499 .textwidget.custom-html-widget,
+.page-id-74501 .textwidget.custom-html-widget,
+.page-id-74503 .textwidget.custom-html-widget,
+.page-id-74505 .textwidget.custom-html-widget,
+.page-id-74509 .textwidget.custom-html-widget {
+  margin: 0 35px;
+}
+.page-id-74499 #section-1,
+.page-id-74501 #section-1,
+.page-id-74503 #section-1,
+.page-id-74505 #section-1,
+.page-id-74509 #section-1 {
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: 100%;
+}
+.page-id-74499 .section-boxed,
+.page-id-74501 .section-boxed,
+.page-id-74503 .section-boxed,
+.page-id-74505 .section-boxed,
+.page-id-74509 .section-boxed {
+  margin: 0;
+  max-width: 100%;
+}
+.page-id-74499 .footer-widgets,
+.page-id-74501 .footer-widgets,
+.page-id-74503 .footer-widgets,
+.page-id-74505 .footer-widgets,
+.page-id-74509 .footer-widgets {
+  margin-top: 50px;
+}
+.metodologias-desktop#fundo {
+  background-image: url(http://possumsolutions.com/wp-content/uploads/2018/09/fundo-metodologias.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0 0 50px 0;
+  min-height: 417px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.metodologias-desktop .content-column {
+  margin-left: 5%;
+  width: 60%;
+}
+.metodologias-desktop h2 {
+  font-family: gt-medium;
+  line-height: 1; 
+}
+.metodologias-desktop button {
+  font-family: gt-thin;
+  font-weight: bold;
+  float: right;
+  padding: 7px 13px;
+  border-radius: 0;
+}
+.metodologias-desktop .item-content {
+  font-family: gt-light;
+  font-size: 15px;
+  line-height: 18px;
+  color: black;
+}
+
+/*----Design Thinking----*/
+.page-id-74499 #met-1-title-line1 {
+  font-size: 64px;
+  padding-bottom: 0; 
+}
+.page-id-74499 #met-1-title-line2 {
+  font-size: 32px;
+  padding-top: 0;
+}
+/*----Applied Innovation----*/
+.page-id-74501 #met-2-title-line1 {
+  font-size: 32px;
+  padding-bottom: 0;
+}
+.page-id-74501 #met-2-title-line2 {
+  font-size: 42px;
+  padding-top: 0;
+}
+/*---Matemática aplicada----*/
+.page-id-74503 #met-3-title-line1{
+  font-size: 34px;
+  padding-bottom: 0;
+}
+.page-id-74503 #met-3-title-line2 {
+  font-size: 18px;
+  padding-top: 0;
+  margin-top: -20px;
+}
+/*----Teoria das restrições----*/
+.page-id-74505 #met-4-title-line1 {
+  font-size: 42px;
+  padding-bottom: 0;
+  line-height: 0.65;
+}
+.page-id-74505 #met-4-title-line2 {
+  font-size: 20px;
+  padding-top: 0;
+  margin-top: -56px;
+  margin-left: 50px;
+  line-height: 1.5;
+}
+/*----Lean----*/
+.page-id-74509 #met-5-title-line1 {
+  font-size: 50px;
+  padding-bottom: 0;
+}
 
 /*consultoria*/
 .page-id-74489 .section-boxed {
@@ -180,9 +421,6 @@ body.page-id-73922 {
   flex-direction: column;
   flex: 1;
 }
-/* .page-id-74489 #page-title {
-  margin: 40px;
-} */
 .page-id-74489 #page-title h1 {
   font-family: gt-thin;
   font-size: 50px;
@@ -195,7 +433,9 @@ body.page-id-73922 {
   flex-direction: column;
   flex: 1;
 }
-.page-id-74489 #row-1, .page-id-74489 #row-2, .page-id-74489 #row-3{
+.page-id-74489 #row-1, 
+.page-id-74489 #row-2, 
+.page-id-74489 #row-3{
   display: flex;
   flex-direction: row;
   height: 320px;
